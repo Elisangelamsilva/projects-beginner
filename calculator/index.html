@@ -9,7 +9,19 @@
 <body>
     <section class="container">
         <h1>Calculator</h1>
-        <p class=""></p>
+       <h4>Adicione o primeiro número: <input type="number" name="" id="recebe01"></h4> 
+       <h4>Adicione o segundo número: <input type="number" name="" id="recebe02"></h4> 
+
+       <label>Selecione a operação:</label>
+            <select id="selecionar">
+                <option value="somar">Somar</option>
+                <option value="subtrair">Subtrair</option>
+                <option value="multiplicar">Multiplifcar</option>
+                <option value="dividir">Dividir</option>
+            </select>
+
+        <input type="button" value="Calcular" onclick="calcular()">
+        <p id="res"></p>
 
     </section>
     <script src="script.js"></script>
