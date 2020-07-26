@@ -1,0 +1,17 @@
+body{
+  background: #333333;
+}
+
+.caixa{
+  max-width: 240px;
+  margin: 180px auto;
+  background: #fff;
+  height: 180px;
+  border-radius: 10px; /*expressura das bordas*/
+}
+
+.texto{
+  margin-top: 60px;
+  text-align: center;
+  color: #fff;
+}
