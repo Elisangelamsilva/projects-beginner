@@ -17,12 +17,22 @@ float main(){
 
     int inputConvertido = conversaoInput(dadoInput);
 
+    int convertereEmMoedas(int inputConvertido);
+
+    int saldoTotal = convertereEmMoedas(inputConvertido);
+
     printf("%i\n", inputConvertido);
 
 }
 
 float conversaoInput(float dadoInput){
+    float conversao;
 
+    conversao = (dadoInput * 100.0) / 10;
+
+    return conversao;
+}
+
+int convertereEmMoedas(int inputConvertido){
     
-
 }
