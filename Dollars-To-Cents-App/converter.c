@@ -21,7 +21,7 @@ float main(){
 
     int saldoTotal = convertereEmMoedas(inputConvertido);
 
-    printf("%i\n", inputConvertido);
+    // printf("%i\n", saldoTotal);
 
 }
 
@@ -34,5 +34,16 @@ float conversaoInput(float dadoInput){
 }
 
 int convertereEmMoedas(int inputConvertido){
-    
+    int penny, nickel, dime, quarter, saldo;
+
+    quarter = floor(inputConvertido / 25);
+    saldo = inputConvertido % 25;
+    dime = floor(saldo / 10);
+    saldo = saldo % 10;
+    nickel = floor(saldo / 5);
+    saldo = saldo % 5;
+    penny = floor(saldo / 1);
+
+
+    return printf("Quaters: %i Dimes: %i Nickel: %i Penny: %i\n", quarter, dime, nickel, penny);
 }
