@@ -1,6 +1,6 @@
 ## Coleção de ideias de aplicativos
 
-Uma coleção de idéias de aplicativos que podem ser usadas para melhorar habilidades de codificação.
+Este repositório contém resolução de ideias de aplicações em várias linguagens de programação no intuito de melhorar habilidades de codificação. Todas as ideias detalhadas estão disponiveis neste repositorio [aqui](https://github.com/florinpop17/app-ideas). 
 
 | [Bin2Dec](https://github.com/Elisangelamsilva/projects-beginner/tree/master/Bin2Dec) | Conversor de número binário para decimal |
 
