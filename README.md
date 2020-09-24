@@ -8,7 +8,7 @@ Este repositório contém resoluções de ideias de aplicações em várias ling
 
 | [Dollars to Cents](https://github.com/Elisangelamsilva/projects-beginner/tree/master/Dollars-To-Cents-App) | Converta dólares em centavos |
 
-| [Calculator](https://github.com/Elisangelamsilva/projects-beginner/tree/master/calculator) | Calculator |
+| [Calculator](https://github.com/Elisangelamsilva/projects-beginner/tree/master/calculator) | Calculadora |
 
-| [CauseEffect](https://github.com/Elisangelamsilva/projects-beginner/tree/master/causeEffect) | Clique no item da lista para exibir o item |
+| [CauseEffect](https://github.com/Elisangelamsilva/projects-beginner/tree/master/causeEffect) | Clique no item da lista para exibir detalhes |
 
